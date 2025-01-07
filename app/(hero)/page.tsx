@@ -1,11 +1,11 @@
 import React from 'react';
 import homeSrc from '../../public/image.png';
 import Hero from '../../components/hero';
-import {Metadata} from 'next';
+// import {Metadata} from 'next';
 
-const metadata: Metadata = {
-  title: 'Home',
-}
+// const metadata: Metadata = {
+//   title: 'Home',
+// }
 
 export default function page() {
   return (
