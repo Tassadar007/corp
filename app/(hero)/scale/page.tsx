@@ -9,6 +9,6 @@ import Hero from '../../../components/hero'
 
 export default function page() {
   return (
-    <Hero imgUrl={scaleSrc} altText='Scale' content='Scale'/>
+    <Hero imgUrl={scaleSrc} altText='Scale' content='Scale Your Application'/>
   )
 }

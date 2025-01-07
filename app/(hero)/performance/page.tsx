@@ -9,6 +9,6 @@ import Hero from '../../../components/hero'
 
 export default function page() {
   return (
-    <Hero imgUrl={performanceSrc} altText='Performance' content='Performance'/>
+    <Hero imgUrl={performanceSrc} altText='Performance' content='We Searve High Performance Applications'/>
   )
 }
